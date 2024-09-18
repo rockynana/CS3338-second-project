@@ -1,0 +1,130 @@
+commit 94f2102bb3c59b99ab79ecda99e7569215253be2
+Merge: 5b54fbb 7e8ac99
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Wed Sep 18 14:50:50 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 5b54fbb043f94086f382bd550c9c392c689b065f
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Wed Sep 18 14:46:27 2024 -0700
+
+    Update index.html
+    
+    At Cal State LA!
+
+commit c4efa5c696f207997174ed3898fc83e69f175ced
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Sat Sep 14 05:48:12 2024 -0700
+
+    Update index.html
+
+commit 00687a983eb7deb5e43e78b3b747c9ab974d03b4
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Sat Sep 14 05:43:47 2024 -0700
+
+    Update index.html
+
+commit 2a5a39785591096b9b18bca2d0556d85f5ce754a
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Sat Sep 14 04:20:23 2024 -0700
+
+    Update index.html
+
+commit 7e8ac9998ccc99e646684a1ba98b8864bb1d4ba9
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Tue Sep 10 15:22:37 2024 -0700
+
+    Update index.html
+
+commit 60f1ed500b82542fee6881866656cdfac4a31e21
+Merge: 7575e22 6d8771b
+Author: rockynan <fagyema@calstatela.edu>
+Date:   Tue Sep 10 14:23:15 2024 -0700
+
+    Resolve merge conflict between main and index-fix branches
+
+commit 553d86985d44aaa1146c6d8530cb58c5a615ff21
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Tue Sep 10 14:21:15 2024 -0700
+
+    Update index.html
+
+commit 6d8771b03d13c0458b3b58807bb0bc6edca7013f
+Author: rockynan <fagyema@calstatela.edu>
+Date:   Tue Sep 10 14:13:27 2024 -0700
+
+    Update the index.html in index-fix branch
+
+commit 7575e22ab82840ca83567e643a9dbda13ffd3121
+Author: rockynan <fagyema@calstatela.edu>
+Date:   Tue Sep 10 14:10:55 2024 -0700
+
+    Update index.html in main branch
+
+commit 261bbb39ff548f5b9cb4bf2a17039af433877ec2
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Tue Sep 10 13:53:39 2024 -0700
+
+    Update index.html
+
+commit 36f8d6d1de9065d69d4c65eb9d6d96810dbd8272
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Tue Sep 10 13:37:27 2024 -0700
+
+    Update index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 5f9529368bcd32860baecc343452ab12acbd2d91
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Mon Sep 2 03:56:13 2024 -0700
+
+    Create README.md
+
+commit a3f97a0a49aa09ef7c00b33793d69854d2ac4055
+Merge: 1d2bfc0 e0b302c
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Mon Sep 2 03:49:01 2024 -0700
+
+    Merge pull request #1 from rockynana/info-fill
+    
+    Update index.html
+
+commit e0b302c1225cfa6d1bf5dfbb9d65f24476e5f662
+Author: rockynana <fagyema@calstatela.edu>
+Date:   Mon Sep 2 03:38:17 2024 -0700
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
